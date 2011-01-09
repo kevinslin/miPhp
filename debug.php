@@ -1,3 +1,5 @@
+<!-- This is a coment inserted locally -->
+
 <?php
 define ('TESTING', 0);
 define ('LOGGING', 1);
